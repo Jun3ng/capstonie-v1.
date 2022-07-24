@@ -5,7 +5,7 @@ As below are my Capstone project in my journey in the course and my humble findi
 
 # Cap-stonie
 
-Capstone Projects for data analytics work
+##Capstone Projects for data analytics work
 
 **Capstone 1** - Excel dashboard for data analytics for a private healthcare provider
 **Background:**
