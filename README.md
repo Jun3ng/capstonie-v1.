@@ -8,6 +8,11 @@ As below are my Capstone project in my journey in the course and my humble findi
 **Capstone 1** - Excel dashboard for data analytics for a private healthcare provider
 
   **Background:**
-  In this project, I assume a role of analyst to advise on potential market for this new start up if they would to take up more govt related scheme as per of their   operational direction. 
+  In this project, I assume a role of analyst for the new startup providing General practitioners (GPs) services. My key task is to find out what the current comsumer base and if it has a potential market that meet the required group that is in line with the current SG goverment healthcare scheme.
+  
+  With the findings,the management team could able achieve the following:
+  
+  1. strategize their services and be more proactive in promoting awareness reaching out to the right audience.
+  2. Enhanced procurement forcasting
 
 **Capstone 2** - SQL analysis for Bike share
