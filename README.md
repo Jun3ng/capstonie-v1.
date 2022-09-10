@@ -21,15 +21,13 @@ As below are my Capstone project works during my learning journey in the data an
   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/106800713/189484518-f7d192e6-08c7-4970-ad6f-bf60118b20ac.gif)
 
   
-
-
-
+--------------
   
 
 **Capstone 2** - SQL analysis for Bike share
 
   **Tools used:** SQLite
 
-**Capstone 2** - Power BI Data Visualisation Dashboard for Bike share
+**Capstone 3** - Power BI Data Visualisation Dashboard for Bike share
 
   **Tools used:** SQL,Mircosoft Excel,Power BI
