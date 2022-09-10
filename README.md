@@ -1,7 +1,8 @@
 # Cap-stonie - Capstone Projects for data analytics work
 
-**Hi All!! 
-I am June here , interested in getting into a data analyst role.
+**Hi All!!**
+
+**I am June here , interested in getting into a data analyst role.
 Currently a trainee in data analytics course which covers a substantial range of data analytical and visualisation tools namely: Mircosoft Excel,SQL,Power BI,Python and Tensorflow.***
 
 ---
