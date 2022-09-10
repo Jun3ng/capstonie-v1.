@@ -24,7 +24,7 @@ As below are my Capstone project works during my learning journey in the data an
 
 Do hover over to see the interactive moments~
 
-  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/106800713/189484518-f7d192e6-08c7-4970-ad6f-bf60118b20ac.gif)
+            ![ezgif com-gif-maker](https://user-images.githubusercontent.com/106800713/189484518-f7d192e6-08c7-4970-ad6f-bf60118b20ac.gif)
 
   
 --------------
@@ -33,6 +33,21 @@ Do hover over to see the interactive moments~
 **Capstone 2** - SQL analysis for Bike share
 
   **Tools used:** SQLite
+  
+          ![image](https://user-images.githubusercontent.com/106800713/189486269-758c7d9f-f1ee-4c92-b7a4-b8fd34da52a3.png)
+
+
+          ![image](https://user-images.githubusercontent.com/106800713/189486244-23fba5f3-7834-452c-a968-555798024989.png)
+        
+        
+          ![image](https://user-images.githubusercontent.com/106800713/189486297-05d7c7df-3486-4970-a68c-d748095e5147.png)
+          
+          
+          ![image](https://user-images.githubusercontent.com/106800713/189486327-58bd8d35-e138-4467-8464-56b7a5492f5f.png)
+          
+
+             ![image](https://user-images.githubusercontent.com/106800713/189486340-976e2972-1f1c-4c7d-b017-96f70321ebd1.png)   
+
 
 
 **Capstone 3** - Power BI Data Visualisation Dashboard for Bike share
