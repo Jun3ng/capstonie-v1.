@@ -1,4 +1,4 @@
-# Cap-stonie - Capstone Projects for data analytics work
+# Capstone Projects for data analytics work
 
 **Hi All!!**
 
