@@ -33,6 +33,9 @@ Do hover over to see the interactive moments~
 **Capstone 2** - SQL analysis for Bike share
 
   **Tools used:** SQLite
+  
+  ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/106800713/189485980-1834be34-276c-459b-bbfe-e2eece4a4e2f.gif)
+
 
 **Capstone 3** - Power BI Data Visualisation Dashboard for Bike share
 
