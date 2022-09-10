@@ -34,6 +34,7 @@ Do hover over to see the interactive moments~
 
   **Tools used:** SQLite
   
+![Cap2](https://user-images.githubusercontent.com/106800713/189486078-7c32a253-b8ee-4328-a1a0-d6d50045f9a8.gif)
 
 
 **Capstone 3** - Power BI Data Visualisation Dashboard for Bike share
