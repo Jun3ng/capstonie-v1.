@@ -16,6 +16,13 @@ As below are my Capstone project works during my learning journey in the data an
   
   1. strategize their services and be more proactive in promoting awareness reaching out to the right audience.
   2. Enhanced procurement budget forcasting
+  
+  
+
+https://user-images.githubusercontent.com/106800713/189484070-d5468e0a-41be-4d98-9ba5-8229f7d292e4.mp4
+
+
+  
 
 **Capstone 2** - SQL analysis for Bike share
 
