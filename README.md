@@ -18,6 +18,8 @@ As below are my Capstone project works during my learning journey in the data an
   2. Enhanced procurement budget forcasting
 
 
+
+
   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/106800713/189484518-f7d192e6-08c7-4970-ad6f-bf60118b20ac.gif)
 
   
