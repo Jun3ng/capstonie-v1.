@@ -40,3 +40,5 @@ Do hover over to see the interactive moments~
 **Capstone 3** - Power BI Data Visualisation Dashboard for Bike share
 
   **Tools used:** SQL,Mircosoft Excel,Power BI
+  
+  Please see Capstonie 2 for more details.
